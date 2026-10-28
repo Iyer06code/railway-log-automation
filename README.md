@@ -21,8 +21,6 @@
 
 This project automates parts of a railway testing-log workflow built around Google Sheets and Google Apps Script. It was designed to make recurring record-keeping tasks more consistent, organize records across reporting periods, and provide a dedicated interface for permitted administrative updates.
 
-> **Portfolio note:** This repository presents the project through documentation, screenshots, and synthetic sample data. It does not include the live client spreadsheet or original client source code. Do not add client-owned code or operational information unless you have explicit permission to publish it.
-
 ## The challenge
 
 Maintaining a recurring operational log can involve repetitive daily preparation, organizing entries by month and shift, preserving historical records, and managing corrections without giving every user the same editing access.
@@ -211,13 +209,6 @@ If a credential has been committed, revoke or rotate it; deleting the visible fi
 
 The workflow was designed to reduce repetitive spreadsheet administration, improve daily and monthly record organization, and provide a clearer path for authorized corrections. Add measured results only if you have evidence to support them.
 
-## Resume-ready summary
-
-> Developed a Google Sheets and Google Apps Script automation workflow for a railway testing log, implementing daily rollover and archiving, month-wise record organization, shift management, sign-in/sign-out, historical-sheet protections, and an administrative editing interface.
-
-Adjust the wording to match the features in the final delivered build. Do not include confidential client details or unsupported performance claims.
-
----
 
 <div align="center">
 
