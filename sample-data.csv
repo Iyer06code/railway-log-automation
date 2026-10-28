@@ -1,0 +1,4 @@
+record_id,reporting_month,shift,status,notes
+DEMO-001,2026-09,Morning,Complete,Synthetic sample record
+DEMO-002,2026-09,Evening,Pending,Synthetic sample record
+DEMO-003,2026-10,Night,Reviewed,Synthetic sample record

@@ -1,0 +1,24 @@
+# Local environment and credentials
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+token.json
+.clasp.json
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data exports and backups — review before allowing any of these
+*.xlsx
+*.xls
+*.ods
+backup/
+backups/
+exports/
+private/
+client-data/
