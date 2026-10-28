@@ -192,19 +192,6 @@ A separate runnable demo could be prepared by:
 4. Testing the demo with a non-production account.
 5. Documenting setup, permissions, and known limitations.
 
-## Privacy and responsible sharing
-
-Before making this repository public, verify the following:
-
-- [ ] The client permits public reference to the project and the screenshots being shared.
-- [ ] Screenshots contain no real employee details or sensitive operational information.
-- [ ] No live spreadsheet, raw client export, backup, or production data is included.
-- [ ] No spreadsheet IDs, deployment URLs, email addresses, tokens, keys, or passwords are exposed.
-- [ ] No confidential details remain in comments, commit history, hidden data, or image metadata.
-- [ ] The source code is omitted unless its publication is explicitly authorized.
-
-If a credential has been committed, revoke or rotate it; deleting the visible file alone may not remove it from Git history. See [GitHub's secret-scanning guidance](https://docs.github.com/en/code-security/concepts/secret-security/secret-scanning).
-
 ## Project outcome
 
 The workflow was designed to reduce repetitive spreadsheet administration, improve daily and monthly record organization, and provide a clearer path for authorized corrections. Add measured results only if you have evidence to support them.
