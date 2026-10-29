@@ -112,6 +112,11 @@ The screenshots below illustrate the workflow. Confirm that each image uses synt
 
 ---
 
+##Video preview:
+
+The working procedure of Employee Log-in and Log-out 
+https://github.com/user-attachments/assets/f42d612d-1698-4194-8a2b-117f44d50bfe
+
 In Admin Tool here is how Calendar section works 
 https://github.com/user-attachments/assets/d83f89b1-0dd3-401b-928d-096b5a16ec4e
 
