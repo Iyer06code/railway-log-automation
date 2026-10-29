@@ -115,6 +115,9 @@ The screenshots below illustrate the workflow. Confirm that each image uses synt
 In Admin Tool here is how Calendar section works 
 https://github.com/user-attachments/assets/d83f89b1-0dd3-401b-928d-096b5a16ec4e
 
+In Admin Tool here is how we can Modify the Employee details 
+https://github.com/user-attachments/assets/d08f15e4-b45d-4e85-8161-3abb26a89ff8
+
 ## How the workflow fits together
 
 ```text
