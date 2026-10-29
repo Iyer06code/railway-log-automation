@@ -112,6 +112,9 @@ The screenshots below illustrate the workflow. Confirm that each image uses synt
 
 ---
 
+Here is how Admin Tool works 
+https://github.com/user-attachments/assets/d83f89b1-0dd3-401b-928d-096b5a16ec4e
+
 ## How the workflow fits together
 
 ```text
